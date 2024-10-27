@@ -1,0 +1,15 @@
+wikipedia
+arxiv
+langchain
+langchain_community
+ipykernel
+langchain-text-splitters
+langchain_core
+python-dotenv
+langchain-google-genai
+streamlit
+faiss-cpu
+langchain_groq
+duckduckgo-search
+pymupdf
+langchain_chroma
